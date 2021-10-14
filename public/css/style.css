@@ -793,3 +793,7 @@ footer {
 .footer, a {
   color:  white;
 }
+.parallax {
+  min-height: 42vh;
+  background: transparent;
+}
