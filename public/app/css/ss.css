@@ -23,21 +23,8 @@
 /* parallax styles */
 
 .parallax {
-  background: url("images/006.jpg") no-repeat center;
-  background-size: cover;
-  background-attachment: fixed;
-  height: 43vh;
-  width: 100vw;
-  z-index: 3;
-}
-
-.parallax1 {
-  background: url("images/007.jpg") no-repeat center;
-  background-size: cover;
-  background-attachment: fixed;
-  height: 40vh;
-  width: 100%;
-  z-index: 2;
+  min-height: 42vh;
+  background: transparent;
 }
 
 .footer {

@@ -7,18 +7,15 @@
   padding: 25px;
 }
 
-.parallax {
+/* .parallax {
   background: url("p2.jpg") no-repeat center;
   background-size: cover;
   background-attachment: fixed;
   height: 300px;
   width: 100%;
-}
+} */
 
-.parallax1 {
-  background: url("p3.jpg") no-repeat center;
-  background-size: cover;
-  background-attachment: fixed;
-  height: 300px;
-  width: 100%;
+.parallax {
+  min-height: 42vh;
+  background: transparent;
 }
