@@ -25,13 +25,9 @@
 .parallax {
   min-height: 42vh;
   background: transparent;
-  /* background-attachment: fixed; */
+  background-attachment: fixed;
 }
 
 .footer {
   background-color: #54436b;
-}
-
-@media only screen (max-width: 480px) {
-  background-attachment: fixed;
 }
